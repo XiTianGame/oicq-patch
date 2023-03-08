@@ -90,7 +90,7 @@ index ffadc63f15e8b0b435e640af60c6b854d0236a83..8a894a68822465e760c79b13b43b8e08
      sigmap: 34869472,
      sdkver: "6.0.0.236",
      display: "Watch",
-+    ssover: 7
++    ssover: 5
  };
  const hd = {
      id: "com.tencent.minihd.qq",
